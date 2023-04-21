@@ -106,6 +106,8 @@ public final class MimeTypes {
 
   public static final String TEXT_EXOPLAYER_CUES = BASE_TYPE_TEXT + "/x-exoplayer-cues";
 
+  public static final String TEXT_LRC = BASE_TYPE_TEXT + "/x-lrc";
+  
   public static final String TEXT_UNKNOWN = BASE_TYPE_TEXT + "/x-unknown";
 
   // application/ MIME types
